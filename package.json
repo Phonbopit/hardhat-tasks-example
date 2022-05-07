@@ -1,0 +1,11 @@
+{
+  "name": "hardhat-tasks-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Phonbopit/hardhat-tasks-example.git",
+  "author": "Chai Phonbopit",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "2.9.3"
+  }
+}

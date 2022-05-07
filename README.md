@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# hardhat-tasks-example
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+👷 Example of Hardhat Tasks for my blog post.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+บทความ [วิธีการสร้าง Custom Task สำหรับ Hardhat](https://devahoy.com/blog/create-custom-task-hardhat)
